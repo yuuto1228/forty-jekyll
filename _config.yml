@@ -5,7 +5,7 @@ subtitle: by FORTY
 email: yuuto1228u@gmail.com
 description: このサイトはYuto Nojiのポートフォリオサイトです。<br>経歴やスキル、開発物などの情報を掲載しています。お気軽にご連絡ください！（制作中）
 url: "https://yunyun.jp"
-baseurl: "/portfolio" 
+baseurl: "/portfolio/" 
 qiita: https://qiita.com/H_Ny
 street_address: private
 phone: Private
