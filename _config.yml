@@ -6,7 +6,7 @@ email: yuuto1228u@gmail.com
 description: このサイトはYuto Nojiのポートフォリオサイトです。<br>経歴やスキル、開発物などの情報を掲載しています。お気軽にご連絡ください！<br>製作途中につき、挙動がおかしい点や情報不足は見逃して！
 baseurl: "" 
 url: "https://yunyun.jp"
-google_analytics: UA-168643865-1
+#google_analytics: UA-168643865-1
 
 qiita: https://qiita.com/H_Ny
 street_address: private
