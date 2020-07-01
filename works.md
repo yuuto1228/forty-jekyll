@@ -16,3 +16,15 @@ nav-menu: true
 </script>
 
 
+
+<div>
+  <p>成績管理アプリ</p>
+</div>
+
+<div>
+  <p>メモ帳アプリ feat.Xamarin</p>
+</div>
+
+<div>
+  <p>顔画像を対象とした特徴量クラスタリングを用いた顔印象自動抽出方式</p>
+</div>
