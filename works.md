@@ -25,13 +25,13 @@ nav-menu: true
 <div>
   <h2>メモ帳アプリ feat.Xamarin</h2>
   <p>2018年に興味で作りました。</p>
-  <a href="https://www.slideshare.net/YutoNoji/xamarinmemo/secret/4dz0XZCjXcEuLB">スライド</a>
+  <a href="https://www.slideshare.net/YutoNoji/xamarinmemo/secret/4dz0XZCjXcEuLB">スライド（ファイル見失ったので途中の物）</a>
 </div>
 
 <div>
   <h2>顔画像を対象とした特徴量クラスタリングを用いた顔印象自動抽出方式</h2>
   <p>大学の有志グループで行った研究です。OC向けにTkinterでUI構築なども担当しました。</p>
-  <a href="https://www.musashino-u.ac.jp/news/20200326-03.html">スライド（ファイル見失ったので途中の物）</a>
+  <a href="https://www.musashino-u.ac.jp/news/20200326-03.html">大学HP該当記事</a>
 </div>
 
 <div>
