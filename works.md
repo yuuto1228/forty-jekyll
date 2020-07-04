@@ -16,7 +16,7 @@ nav-menu: true
 </script>
 
 
-
+<p>その他の細かい活動記録などはQiitaを参照していただければと思います。</p>
 <div>
   <h2>成績管理アプリ</h2>
   <p>高校の授業で作成しました。使用技術はC,SQLite,Oracle Serverです。</p>
@@ -38,4 +38,9 @@ nav-menu: true
   <h2>楽曲の周波数特徴を用いた印象に基づく照明色決定方式</h2>
   <p>大学のゼミ型講義内で個人研究しました。</p>
   <a href="https://www.slideshare.net/secret/Hh4yXsTr26OZK9">スライド<a/>
+   
+<div>
+  <h2>ばにしぇbot</h2>
+  <p>「謎会」という大学生コミュニティの企画として「特定ユーザのツイートをマルコフ解析することで似たようなツイートを行うbot」を作成。</p>
+  <a href="https://twitter.com/sexy_vani_vani">botアカウント</a>
   
