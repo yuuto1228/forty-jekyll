@@ -47,7 +47,7 @@ nav-menu: true
 </div>
 
 <div>
-  <h2 id="emonote>音と感性の共演キーボード[Emonote]</h2>
+  <h2 id="emonote">音と感性の共演キーボード[Emonote]</h2>
   <p>音と感性を結びつける研究の際にアウトプットイメージとして制作したプロト的なものです。</p>
 <p class="codepen" data-height="542" data-theme-id="light" data-default-tab="result" data-user="HyNy" data-slug-hash="vYBeNjd" style="height: 542px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Emotone">
   <span>See the Pen <a href="https://codepen.io/HyNy/pen/vYBeNjd">
