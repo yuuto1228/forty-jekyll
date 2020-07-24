@@ -43,4 +43,16 @@ nav-menu: true
   <h2>ばにしぇbot</h2>
   <p>「謎会」という大学生コミュニティの企画として「特定ユーザのツイートをマルコフ解析することで似たようなツイートを行うbot」を作成。</p>
   <a href="https://twitter.com/sexy_vani_vani">botアカウント</a>
+</div>
+
+<div>
+  <h2>音と感性の共演キーボード</h2>
+  <p>音と感性を結びつける研究の際にアウトプットイメージとして制作したプロト的なものです。</p>
+  <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="HyNy" data-slug-hash="vYBeNjd" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Emotone">
+  <span>See the Pen <a href="https://codepen.io/HyNy/pen/vYBeNjd">
+  Emotone</a> by yuuto1228 (<a href="https://codepen.io/HyNy">@HyNy</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+</div>
   
