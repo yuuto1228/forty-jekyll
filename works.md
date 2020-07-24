@@ -47,7 +47,7 @@ nav-menu: true
 </div>
 
 <div>
-  <h2 id="emonote">音と色と感性を表現するキーボード[Emonote]</h2>
+  <h2 id="emonote">音と色と感性を表現するキーボード[Emotone]</h2>
   <p>音と色と感性を結びつける研究の際にアウトプットイメージとして制作したプロト的なものです。</p>
   <p>※イメージとして作ってみただけなので音・色・感性の組み合わせは調整してません。あしからず</p>
 <p class="codepen" data-height="542" data-theme-id="light" data-default-tab="result" data-user="HyNy" data-slug-hash="vYBeNjd" style="height: 542px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Emotone">
