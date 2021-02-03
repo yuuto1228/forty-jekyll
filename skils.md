@@ -36,20 +36,20 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>C#</h3>
-		<p>Androidアプリ開発やUnityScriptで使用しました。書きなれていません。</p>
+		<p>Androidアプリ開発やUnityScriptで使用しました。</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Java</h3>
-		<p>高校で少しやってた。<br>基本構文すら覚えてるか怪しいレベル。</p>
+		<p>高校で基本を学びました。</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>C</h3>
-		<p>基本構文は書けます。<br>メモリ管理？ポインタ？なにそれ美味しいの？</p>
+		<p>高校で基本を学びました。</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>HTML</h3>
-		<p>なんとなくテンプレいじれるくらいの知識</p>
+		<p>ポートフォリオや研究で使用しています。</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>CSS</h3>
@@ -57,6 +57,6 @@ nav-menu: true
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>JavaScript</h3>
-		<p>UnityScriptで少し触ったので多少は。嫌い。</p>
+		<p>UnityScriptやWebVR開発で使用しました。</p>
 	</div>
 </div>
