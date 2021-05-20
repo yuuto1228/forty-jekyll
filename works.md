@@ -16,30 +16,30 @@ nav-menu: true
 </script>
 
 
-<p>その他の細かい活動記録などはQiitaを参照していただければと思います。</p>
-<div>
-  <h2>成績管理アプリ</h2>
-  <p>高校の授業で作成しました。使用技術はC,SQLite,Oracle Serverです。</p>
-  <br>
-</div>
+<p>スライドやコンテンツ、掲載記事などは追って追加いたします。<br>その他の細かい活動記録などはQiitaを参照していただければと思います。</p>
+
+<p>~2021 : coming soon</p>
+
+<p>~2020</p>
 
 <div>
-  <h2>メモ帳アプリ feat.Xamarin</h2>
-  <p>2018年に興味で作りました。</p>
-  <a href="">スライド（行方不明中）</a>
-  <br>
-</div>
+  <h2>VR空間を活用したインタラクティブゴミマップシステムの開発</h2>
+  <p>A-frameを利用したWebVR空間にてゴミマップを実現することで没入感を活かしたゴミ収集、状況把握の支援システムの提案、開発。<br>ソケット通信なども搭載。</p>
 
 <div>
-  <h2>顔画像を対象とした特徴量クラスタリングを用いた顔印象自動抽出方式</h2>
-  <p>大学の有志グループで行った研究です。OC向けにTkinterでUI構築なども担当しました。</p>
-  <a href="https://www.musashino-u.ac.jp/news/20200326-03.html">大学HP該当記事</a>
-  <br>
+  <h2>サイバーオープンキャンパスにおけるデータ分析</h2>
+  <p>Unity, C#, JS, GAS, API Gateway, lambdaを組み合わせることによる仮想空間オープンキャンパスの実施とその行動データ分析を実施。</p>  
+</div>
+
+<p>~2019</p>
+<div>
+  <h2>個人研究にて学科賞受賞</h2>
+  <p>下記個人研究にて学科内表彰を受賞。</p>  
 </div>
 
 <div>
   <h2>楽曲の周波数特徴を用いた印象に基づく照明色決定方式</h2>
-  <p>大学のゼミ型講義内で個人研究しました。</p>
+  <p>学部1年次に取り組んだ個人研究</p>
   <a href="https://www.slideshare.net/secret/Hh4yXsTr26OZK9">スライド</a>
   <br>
 </div>
@@ -53,13 +53,33 @@ nav-menu: true
 
 <div>
   <h2 id="emonote">音と色と感性を表現するキーボード[Emotone]</h2>
-  <p>音と色と感性を結びつける研究の際にアウトプットイメージとして制作したプロト的なものです。</p>
-  <p>※イメージとして作ってみただけなので音・色・感性の組み合わせは調整してません。あしからず</p>
+  <p>音と色と感性を結びつける研究の際にアウトプットイメージとして制作したプロトタイプ。</p>
 <p class="codepen" data-height="542" data-theme-id="light" data-default-tab="result" data-user="HyNy" data-slug-hash="vYBeNjd" style="height: 542px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Emotone">
   <span>See the Pen <a href="https://codepen.io/HyNy/pen/vYBeNjd">
   Emotone</a> by yuuto1228 (<a href="https://codepen.io/HyNy">@HyNy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+</div>
+
+<div>
+  <h2>[論文]顔画像を対象とした特徴量クラスタリングを用いた顔印象自動抽出方式</h2>
+  <p>大学の有志グループで行った研究。OC向けにTkinterでUI構築なども担当。</p>
+  <a href="https://www.musashino-u.ac.jp/news/20200326-03.html">大学HP該当記事</a>
+  <br>
+</div>
+
+<p>until:2018</p>
+<div>
+  <h2>メモ帳アプリ feat.Xamarin</h2>
+  <p>2018年に高校の卒業制作にて制作。</p>
+  <a href="">スライド（準備中）</a>
+  <br>
+</div>
+
+<div>
+  <h2>成績管理アプリ</h2>
+  <p>高校の授業で作成しました。使用技術はC,SQLite,Oracle Serverです。</p>
+  <br>
 </div>
   
